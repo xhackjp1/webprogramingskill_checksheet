@@ -35,4 +35,13 @@ Vue.js React.js などのjsフレームワークを習得するだけの基礎�
 
 # チェックシートはこちら
 
-[チェックを開始する](https://github.com/drecomatsuda/webprogramingskill_checksheet/blob/master/checksheet.md)
+## 基礎編
+- [チェックしてみよう](https://github.com/drecomatsuda/webprogramingskill_checksheet/blob/master/checksheet_basic.md)
+
+
+## 発展編
+- [チェックしてみよう](https://github.com/drecomatsuda/webprogramingskill_checksheet/blob/master/checksheet_advanced.md)
+
+
+## 実践編
+- [チェックしてみよう](https://github.com/drecomatsuda/webprogramingskill_checksheet/blob/master/checksheet_practice.md)
