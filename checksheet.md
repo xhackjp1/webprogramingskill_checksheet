@@ -125,5 +125,3 @@
 
 - [ ] 処理に応じた適切なデータフォーマットを選択できる
 - [ ] プログラミング言語を利用して各データフォーマットから必要なデータを取得できる
-
-http://melborne.github.io/2013/02/25/i-wanna-say-something-about-rubys-case/
